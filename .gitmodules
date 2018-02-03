@@ -1,0 +1,6 @@
+[submodule "vendor/github.com/Bren2010/proquint"]
+	path = vendor/github.com/Bren2010/proquint
+	url = https://github.com/Bren2010/proquint
+[submodule "vendor/github.com/akamensky/base58"]
+	path = vendor/github.com/akamensky/base58
+	url = https://github.com/akamensky/base58
